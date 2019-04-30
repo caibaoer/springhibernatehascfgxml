@@ -1,0 +1,1 @@
+spring整合hibernate,有hibernate.cfg.xml配置文件
